@@ -3,7 +3,7 @@ import './styles.css';
 
 const EmptyList = () => (
   <div className='emptyList-wrap'>
-    <img src='/assets/images/13525-empty.gif' alt='empty' />
+    <h1>Couldn't find bruh</h1>
   </div>
 );
 

@@ -39,7 +39,7 @@ const Blog = () => {
           <p className='blog-desc'>{blog.description}</p>
         </div>
       ) : (
-        <EmptyList />
+        <EmptyList/>
       )}
     </>
   );
