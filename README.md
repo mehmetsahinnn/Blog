@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Screenshots
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Preview of Blog Website
+![Ekran görüntüsü 2023-09-05 115759](https://github.com/mehmetsahinnn/Blog/assets/93222434/ea1fa201-fac7-47cc-96f8-07c66aeef06c)
+- Explore all the different content categories I cover right on my Blog project.
+- 🌟 Dive into a world of knowledge and projects!
+
+
+![Ekran görüntüsü 2023-09-05 115819](https://github.com/mehmetsahinnn/Blog/assets/93222434/3c037971-6411-45e9-99ec-72f86f724a01)
+- Check out the powerful filtering system I've implemented on this project.
+- 🧐🔍 It makes it a breeze to find the content you're looking for.
+- Discover your favorite topics with ease!
+
 
 ## Available Scripts
 
@@ -16,10 +26,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-![Ekran görüntüsü 2023-09-05 115914](https://github.com/mehmetsahinnn/Blog/assets/93222434/7fb06478-5bfb-4b99-af99-dd812dc5a865)
-![Ekran görüntüsü 2023-09-05 115819](https://github.com/mehmetsahinnn/Blog/assets/93222434/3c037971-6411-45e9-99ec-72f86f724a01)
-![Ekran görüntüsü 2023-09-05 115759](https://github.com/mehmetsahinnn/Blog/assets/93222434/ea1fa201-fac7-47cc-96f8-07c66aeef06c)
 
 ### `npm test`
 
