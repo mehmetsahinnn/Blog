@@ -17,6 +17,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+![Ekran görüntüsü 2023-09-05 115914](https://github.com/mehmetsahinnn/Blog/assets/93222434/7fb06478-5bfb-4b99-af99-dd812dc5a865)
+![Ekran görüntüsü 2023-09-05 115819](https://github.com/mehmetsahinnn/Blog/assets/93222434/3c037971-6411-45e9-99ec-72f86f724a01)
+![Ekran görüntüsü 2023-09-05 115759](https://github.com/mehmetsahinnn/Blog/assets/93222434/ea1fa201-fac7-47cc-96f8-07c66aeef06c)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
